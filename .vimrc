@@ -18,7 +18,6 @@ set shiftwidth=4
 set expandtab
 set autoindent
 set cindent
-set autoindent
 set showmatch
 
 set hlsearch
