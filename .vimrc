@@ -31,6 +31,6 @@ set laststatus=2
 
 set clipboard+=unnamed
 
-set guifront=Monaco:h14
+set guifont=Monaco:h14
 
 
