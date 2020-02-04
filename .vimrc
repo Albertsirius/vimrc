@@ -33,4 +33,5 @@ set clipboard+=unnamed
 
 set guifont=Monaco:h14
 
-
+inoremap jj <Esc>
+vnoremap jj <Esc>
